@@ -1,2 +1,3 @@
 Testing git commands From Local -> git
 Testing git commands From git -> Local
+Testing git commands From Conflicts
