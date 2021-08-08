@@ -1,1 +1,2 @@
-Testing git commands
+Testing git commands From Local -> git
+Testing git commands From git -> Local
